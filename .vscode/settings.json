@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "new_math.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "limits": "c"
+    },
+    "commentTranslate.targetLanguage": "vi",
+    "commentTranslate.hover.enabled": false
+}
